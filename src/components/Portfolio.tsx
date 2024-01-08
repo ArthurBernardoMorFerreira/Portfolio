@@ -1,11 +1,9 @@
-import {
-  arrayDestruct,
-  installNode,
-  navbar,
-  reactParallax,
-  reactSmooth,
-  reactWeather,
-} from './Src';
+import arrayDestruct from "/src/assets/project/arrayDestruct.jpg"
+import installNode from "/src/assets/project/installNode.jpg";
+import navbar from "/src/assets/project/navbar.jpg";
+import reactParallax from "/src/assets/project/reactParallax.jpg";
+import reactSmooth from "/src/assets/project/reactSmooth.jpg";
+import reactWeather from "/src/assets/project/reactWeather.jpg";
 
 const Portfolio = () => {
   const portfolios = [

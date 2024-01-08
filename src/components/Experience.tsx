@@ -1,13 +1,13 @@
-import {
-  html,
-  css,
-  javascript,
-  typescript,
-  reactImage,
-  github,
-  tailwind,
-  materialUI,
-} from './Src'
+import html from "/src/assets/stack/html.png";
+import css from "/src/assets/stack/css.png";
+import javascript from "/src/assets/stack/javascript.png";
+import typescript from "/src/assets/stack/typescript.png";
+import reactImage from "/src/assets/stack/react.png";
+import nextjs from "/src/assets/stack/nextjs.png";
+import graphql from "/src/assets/stack/graphql.png";
+import github from "/src/assets/stack/github.png";
+import tailwind from "/src/assets/stack/tailwind.png";
+import materialUI from "/src/assets/stack/material-ui.png";
 
 const Experience = () => {
   const techs = [
