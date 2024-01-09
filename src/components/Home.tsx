@@ -1,4 +1,5 @@
 import ProfileImage from "/src/assets/profile/profile.png";
+import IconDeveloper from './src/assets/icon/icon-developer.png';
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -68,7 +69,7 @@ const Home = () => {
             "
           >
             <img
-              src="./src/assets/icon/icon-developer.png"
+              src={IconDeveloper}
               alt="Icon Developer"
             />
           </div>
