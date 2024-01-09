@@ -1,5 +1,5 @@
 import ProfileImage from "/src/assets/profile/profile.png";
-import IconDeveloper from './src/assets/icon/icon-developer.png';
+import IconDeveloper from '/src/assets/icon/icon-developer.png';
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
