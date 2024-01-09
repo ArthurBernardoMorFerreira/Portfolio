@@ -1,4 +1,4 @@
-import { ProfileImage } from "./Src";
+import ProfileImage from "./src/assets/profile/profile.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
